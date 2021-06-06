@@ -1,6 +1,6 @@
 # DataPagination
 ## MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN - January 2021
-### Check out my ATM repository. Within this Repo you will locate the JS, HTML and CSS. 
+### Check out my Data Pagination repository. Within this Repo you will locate the JS, and HTML.
 #### Installation Process
 ##### Fork a copy of the Repository using your very own GitHub Account!
 ###### Step 1: Go to the repository page Step 2: Select the Fork button in the top right corner Step 3: You have successfully created your very own copy of this repository
